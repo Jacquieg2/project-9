@@ -1,3 +1,8 @@
+# Author: Jacqueline Garcia
+# GitHub username: Jgarcia2
+# Date: 03/04/2025
+# Description: multiplying funcations
+
 def dot_prod(list1, list2):
     """
     Computes the dot product of two lists of numbers.
